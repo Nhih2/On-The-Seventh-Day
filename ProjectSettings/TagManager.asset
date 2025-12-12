@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Slot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3444393951
+    locked: 0
+  - name: Fore_BG
+    uniqueID: 960695091
+    locked: 0
+  - name: Stage
+    uniqueID: 236663761
+    locked: 0
+  - name: Back_FG
+    uniqueID: 3005908051
+    locked: 0
+  - name: FG
+    uniqueID: 2812150629
+    locked: 0
+  m_RenderingLayers:
+  - Default
