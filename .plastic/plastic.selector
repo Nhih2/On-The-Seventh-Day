@@ -1,0 +1,3 @@
+repository "On The Seventh Day/On The Seventh Day@18968066917503@cloud"
+  path "/"
+    smartbranch "/main"
