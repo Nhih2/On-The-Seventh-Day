@@ -1,7 +1,7 @@
 # On The Seventh Day
 
 ## Play or Download:
-Play or download in this link : https://nhih.itch.io/valley-of-monsters
+Play or download in this link : https://nhih.itch.io/on-the-seventh-day
 
 ## ℹ️ Overview
 A Balatro-like game with a twist of task completions by Nhih, an aspiring game developer currently studying in University.
